@@ -21,6 +21,7 @@ User_mia = User("Mia", "Thermopolis", 32, "princessofgenovia@gmail.com")
 User_scott = User("Scott", "Styles", 17, "wolffriend@yahoo.com")
 User_ted = User("Ted", "Lasso", 46, "englishfootbal@crumpet.com")
 
+
 User_mia.enroll()
 User_mia.spend_points(50)
 
